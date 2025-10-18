@@ -8,9 +8,9 @@
 - Quantidade de pacientes que chegaram por mês;
 - Tempo médio de internação dos pacientes em dias.
 
-  ## O que foi feito (arquivo staff.ipynb)
-  - Exclusão de linhas vazias;
-  - Padronização de letras maiúsculas das colunas "role" e "service";
-  - Quantidade de funcionários por cargo;
-  - Quantidade de funcionários por serviço;
-  - Criação de gráfico de funcionários por serviço.
+## O que foi feito (arquivo staff.ipynb)
+- Exclusão de linhas vazias;
+- Padronização de letras maiúsculas das colunas "role" e "service";
+- Quantidade de funcionários por cargo;
+- Quantidade de funcionários por serviço;
+- Criação de gráfico de funcionários por serviço.
